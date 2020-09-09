@@ -1,1 +1,2 @@
-# josephus
+# jackpot
+Game jackpot
